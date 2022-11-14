@@ -97,7 +97,7 @@ body::before {
     padding: 20px 50px 10px 50px;
     display: flex;
     flex-direction: row;
-    gap: 50px;
+    justify-content: space-between;
     text-align: center;
  }
  .details1,.details2,.details3{
